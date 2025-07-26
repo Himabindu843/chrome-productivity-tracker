@@ -7,7 +7,7 @@
 - **DURATION** : 6 WEEKS
 - **MENTOR** : Neela Santhosh Kumar
 
-**DESCRIPTION**:
+- **DESCRIPTION**:
 This project is a Chrome Extension designed to track the amount of time a user spends on different websites and classify that time as productive, unproductive, or neutral. 
 The goal of this extension is to help users become more aware of their browsing habits and optimize their time management for better productivity.
 
@@ -21,7 +21,7 @@ The goal of this extension is to help users become more aware of their browsing 
 **Tools & Technologies Used**
 - HTML5 & CSS3 – Used to build a responsive and minimal user interface for the popup.
 - JavaScript (Vanilla) – Core functionality for background logic, tab activity, messaging, and popup behavior.
-**Chrome Extension APIs**
+- **Chrome Extension APIs**
 - tabs – To detect the currently active tab and its URL.
 - windows – To track when the browser window is focused or not.
 - storage – To persist user data across sessions using chrome.storage.local.
@@ -54,4 +54,7 @@ Initialized a Git repository, committed the code, and pushed it to GitHub at [Gi
 
 This Chrome Extension project helped me explore browser APIs, asynchronous JavaScript, UI design, and user experience. 
 It’s an excellent learning experience in building real-world, browser-native tools that directly impact productivity and time management.
+
+- **OUTPUT**:-
+  ![Image](https://github.com/user-attachments/assets/5c4f10b9-b205-487f-8b8c-8aa0c0a08210)
 

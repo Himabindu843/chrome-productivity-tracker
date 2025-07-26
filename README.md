@@ -56,5 +56,6 @@ This Chrome Extension project helped me explore browser APIs, asynchronous JavaS
 It’s an excellent learning experience in building real-world, browser-native tools that directly impact productivity and time management.
 
 **OUTPUT**:-
-  ![Image](https://github.com/user-attachments/assets/5c4f10b9-b205-487f-8b8c-8aa0c0a08210)
+
+![Image](https://github.com/user-attachments/assets/5c4f10b9-b205-487f-8b8c-8aa0c0a08210)
 
